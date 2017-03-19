@@ -17,6 +17,6 @@ libraryDependencies ++= Seq(
 routesGenerator :=InjectedRoutesGenerator
 
 enablePlugins(DebianPlugin)
-maintainer := “Solomon  <solomoneth@gmail.com>“
+maintainer := "Solomon  <solomoneth@gmail.com>"
 packageSummary := "My custom package"
 packageDescription := "Package"
